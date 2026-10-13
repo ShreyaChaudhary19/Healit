@@ -1,3 +1,15 @@
+<img width="1278" height="1230" alt="ChatGPT Image Sep 30, 2026, 09_30_53 PM" src="https://github.com/user-attachments/assets/5266b1e6-3346-4a8c-b3dc-2c2fc97a8262" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 30 PM" src="https://github.com/user-attachments/assets/cebe8a39-aba6-444f-8f70-4350fb42d89b" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 30 PM (2)" src="https://github.com/user-attachments/assets/aea7ece3-266f-4b32-9d1a-6c1fa7986c1e" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 30 PM (1)" src="https://github.com/user-attachments/assets/8ccd01f1-8449-4f02-946e-38fb4f194423" />
+<img width="941" height="1599" alt="WhatsApp Image 2026-09-30 at 9 23 29 PM" src="https://github.com/user-attachments/assets/3cac9e4c-d1e0-4c74-bfd0-679bc9f5bc9d" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 29 PM (2)" src="https://github.com/user-attachments/assets/e98c95ca-4533-415e-abeb-c58be773e5e8" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 29 PM (1)" src="https://github.com/user-attachments/assets/c63ea676-2156-4d9f-a064-50d3eb151a12" />
+<img width="880" height="1599" alt="WhatsApp Image 2026-09-30 at 9 23 28 PM (3)" src="https://github.com/user-attachments/assets/2e5af8df-56d0-4bb4-8e0f-fd3a0c21e63b" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 28 PM (2)" src="https://github.com/user-attachments/assets/1c8e57a1-22e9-43a6-8b90-43dca219db9b" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 28 PM (1)" src="https://github.com/user-attachments/assets/6f3f4bc9-c7d4-42a3-886f-69d895973394" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 28 PM" src="https://github.com/user-attachments/assets/de5781ba-dcb6-44e6-b24f-784760023a77" />
+<img width="818" height="1600" alt="WhatsApp Image 2026-09-30 at 9 23 27 PM" src="https://github.com/user-attachments/assets/166c351e-1b84-49e1-b9dd-6b145bc69a73" />
 # 💙 Healit — AI-Powered Healthcare Assistant
 
 **Healit** is a healthcare mobile application designed to make health information, personal health tracking, and healthcare support more accessible through a simple, user-friendly interface.
